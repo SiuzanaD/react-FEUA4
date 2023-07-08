@@ -1,0 +1,32 @@
+.button {
+    background-color: #fff;
+    color: #fff;
+    border: none;
+    padding: 8px 60px;
+    border-radius: 5px;
+    margin-left: 1rem;
+    font-size: 1rem;
+    letter-spacing: 2px;
+  }
+  
+  .button:hover {
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  .text {
+    color: #1971c2;
+    border: none;
+  }
+  
+  .contained {
+    background-color: #1971c2;
+    color: #fff;
+    border: 2px solid #1971c2;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  }
+  
+  .outlined {
+    border: 2px solid #1971c2;
+    color: #1971c2;
+  }

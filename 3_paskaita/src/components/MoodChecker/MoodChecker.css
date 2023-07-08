@@ -1,0 +1,18 @@
+.button {
+    border: 2px solid #c2255c;
+    color: #c2255c;
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 20px;
+    font-weight: bolder;
+    cursor: pointer;
+    margin: 20px;
+    letter-spacing: 1.2px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  }
+  
+  h2 {
+    text-align: center;
+    margin: 20px;
+  }

@@ -1,0 +1,67 @@
+img {
+    width: 100%;
+    border-radius: 5px 5px 0 0;
+  }
+  
+  #cardBox {
+    margin: 1rem;
+    width: 25rem;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  }
+  
+  h2 {
+    margin: 0;
+    padding-left: 1rem;
+  }
+  
+  p {
+    padding: 0rem 1rem 1rem 1rem;
+  }
+  
+  #avatarCircle {
+    border-radius: 50%;
+    width: 5rem;
+    height: 5rem;
+    margin: 1rem;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  #avatarCircle h2 {
+    padding: 0;
+  }
+  
+  #allAvatars {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .products {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  
+  .productCard {
+    margin: 1rem;
+    width: 20rem;
+  }
+  
+  .productsTitle {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .category {
+    font-size: 0.9rem;
+    color: grey;
+  }
+  
+  .price {
+    font-weight: bold;
+  }

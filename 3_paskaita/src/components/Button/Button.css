@@ -1,0 +1,30 @@
+.btn {
+    background-color: #fff;
+    color: #fff;
+    border-radius: 5px;
+    text-transform: uppercase;
+    border: none;
+    padding: 10px 20px;
+    font-size: 20px;
+    font-weight: bolder;
+    cursor: pointer;
+    margin: 20px;
+    letter-spacing: 1.2px;
+  }
+  
+  .text {
+    color: #1971c2;
+    border: none;
+  }
+  
+  .contained {
+    background-color: #1971c2;
+    color: #fff;
+    border: 2px solid #1971c2;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  }
+  
+  .outlined {
+    border: 2px solid #1971c2;
+    color: #1971c2;
+  }
